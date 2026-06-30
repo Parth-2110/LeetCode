@@ -68,6 +68,7 @@ This repository serves as:
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Parth-2110/LeetCode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -77,4 +78,12 @@ This repository serves as:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Parth-2110/LeetCode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
