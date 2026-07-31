@@ -21,7 +21,7 @@ class Solution {
             return mid;
         }
 
-        else if(nums[mid] > nums[mid - 1]){
+        else if(nums[mid]<nums[mid + 1]){
             start = mid + 1;
         }
 
