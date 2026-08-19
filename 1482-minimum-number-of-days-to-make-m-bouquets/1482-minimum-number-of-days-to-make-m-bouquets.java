@@ -1,66 +1,65 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-    
-        if((long)m * k > bloomDay.length){
+
+        if(bloomDay.length < ((long)m*k)){
             return -1;
         }
 
-       
-            int left = Integer.MAX_VALUE;
-            int right = Integer.MIN_VALUE; 
-            int ans = -1;
+        int ans = -1;
+        int start = Integer.MAX_VALUE;
+        int end = Integer.MIN_VALUE;
 
-            for(int day : bloomDay){
-                left = Math.min(left,day);
-                right = Math.max(right,day);
-            }
+        for(int bloom: bloomDay){
 
-        while(left <= right){
+           start = Math.min(bloom,start);
+           end = Math.max(bloom,end);
+            
+        }
+        
+        while(end >= start){
 
-            int mid = left + (right - left)/2;
+            int mid = start + (end - start)/2;
 
-            if(canWeMakeBouquets(bloomDay,m,k,mid)) {
-                right = mid - 1 ;
+            if(canWeMakeBouquet(bloomDay, m , k , mid)){
+                end = mid - 1;
                 ans = mid;
             }
+
             else{
-                left = mid + 1;
+                start = mid + 1;
             }
         }
 
         return ans;
     }
 
-    public boolean canWeMakeBouquets(int[] bloomDay, int m, int k, int days)
-{
-            int bouqet = 0;
-            int flowers = 0;
-           
+    public boolean canWeMakeBouquet(int[] bloomDay, int m, int k, int mid){
 
-   for(int i = 0; i < bloomDay.length; i++){
-    
-    if(bloomDay[i] <= days){
-         flowers++;
+        int flowers = 0;
+        int bouquet = 0;
+        for(int i = 0; i < bloomDay.length; i++){
+            if(bloomDay[i] <= mid){
+                flowers++;
 
-         if(flowers == k){
-            bouqet++;
-            flowers = 0;
-         }
-}
-         
+                if(flowers == k){
+                bouquet++;
+                flowers = 0;
+            }
 
-        else{
-            flowers = 0;
+
+            }
+
+            else{
+                flowers = 0;
+            }
+
+            
+            if(bouquet == m){
+                return true;
+            }
+
+            
         }
-         
-   
-
-   if(bouqet == m){
-    return true;
-   }
-
-   
-}
-return false;
-}
+        return false;
+    }
 }
