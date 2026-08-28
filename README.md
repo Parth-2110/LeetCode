@@ -69,6 +69,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth-2110/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Parth-2110/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Parth-2110/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Parth-2110/LeetCode/tree/master/0048-rotate-image) |
@@ -103,6 +104,7 @@ This repository serves as:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Parth-2110/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -144,6 +146,7 @@ This repository serves as:
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Parth-2110/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Parth-2110/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Parth-2110/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
