@@ -3,14 +3,16 @@ class Solution {
 
         int m = matrix[0].length;
         int n = matrix.length;
+        
         int left = 0;
         int right = (m*n) - 1;
 
         while(left <= right){
+
             int mid = left + (right - left)/2;
 
-            int row = mid / m;
             int col = mid % m;
+            int row = mid / m;
 
             if(matrix[row][col] == target){
                 return true;
@@ -21,9 +23,8 @@ class Solution {
             }
 
             else{
-                right = mid - 1 ;
+                right = mid - 1;
             }
-
         }
 
 
