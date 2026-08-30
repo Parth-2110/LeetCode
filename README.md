@@ -173,4 +173,16 @@ This repository serves as:
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Parth-2110/LeetCode/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Parth-2110/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Parth-2110/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Parth-2110/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
