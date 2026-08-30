@@ -92,6 +92,7 @@ This repository serves as:
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Parth-2110/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parth-2110/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Parth-2110/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parth-2110/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -135,6 +136,7 @@ This repository serves as:
 | [0073-set-matrix-zeroes](https://github.com/Parth-2110/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Parth-2110/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parth-2110/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +168,7 @@ This repository serves as:
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Parth-2110/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parth-2110/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Parth-2110/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
