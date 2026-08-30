@@ -98,6 +98,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Parth-2110/LeetCode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Parth-2110/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parth-2110/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -176,6 +177,7 @@ This repository serves as:
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Parth-2110/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Parth-2110/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
