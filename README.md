@@ -122,6 +122,7 @@ This repository serves as:
 | ------- |
 | [0001-two-sum](https://github.com/Parth-2110/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Parth-2110/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/Parth-2110/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Parth-2110/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
@@ -180,6 +181,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Parth-2110/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Parth-2110/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Parth-2110/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Parth-2110/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
