@@ -122,6 +122,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth-2110/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Parth-2110/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Parth-2110/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/Parth-2110/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/0229-majority-element-ii) |
@@ -144,6 +145,7 @@ This repository serves as:
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Parth-2110/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parth-2110/LeetCode/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/Parth-2110/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -183,6 +185,7 @@ This repository serves as:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Parth-2110/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Parth-2110/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Parth-2110/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Parth-2110/LeetCode/tree/master/0451-sort-characters-by-frequency) |
