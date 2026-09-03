@@ -3,25 +3,25 @@ class Solution {
 
         HashMap<Character,Integer> map = new HashMap<>();
 
-        for(char c : s.toCharArray()){
+        for(char c: s.toCharArray()){
             map.put(c, map.getOrDefault(c, 0) + 1);
         }
 
         PriorityQueue<Map.Entry<Character,Integer>> pq = new PriorityQueue<>(
-            (a,b) -> b.getValue() - a.getValue()
+            (a , b) -> b.getValue() - a.getValue()
         );
 
         pq.addAll(map.entrySet());
 
-        StringBuilder str = new StringBuilder();
+        StringBuilder str = new StringBuilder(); 
+
         while(!pq.isEmpty()){
 
-            Map.Entry<Character,Integer> entry = pq.poll();
+           Map.Entry<Character,Integer> entry = pq.poll();
+
             str.append(String.valueOf(entry.getKey()).repeat(entry.getValue()));
         }
 
         return str.toString();
-
-        
     }
 }
