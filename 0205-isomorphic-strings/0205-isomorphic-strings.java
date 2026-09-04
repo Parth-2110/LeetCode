@@ -5,27 +5,20 @@ class Solution {
             return false;
         }
 
-        HashMap<Character, Character> SMap = new HashMap<>();
-        HashMap<Character, Character> TMap = new HashMap<>();
+        int[] sMap = new int[256];
+        int[] tMap = new int[256];
 
         for (int i = 0; i < s.length(); i++) {
 
             char a = s.charAt(i);
             char b = t.charAt(i);
 
-            // Check s -> t mapping
-            if (SMap.containsKey(a) && SMap.get(a) != b) {
+            if (sMap[a] != tMap[b]) {
                 return false;
             }
 
-            // Check t -> s mapping
-            if (TMap.containsKey(b) && TMap.get(b) != a) {
-                return false;
-            }
-
-            // Create the mappings
-            SMap.put(a, b);
-            TMap.put(b, a);
+            sMap[a] = i + 1;
+            tMap[b] = i + 1;
         }
 
         return true;
