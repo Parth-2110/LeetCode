@@ -223,4 +223,8 @@ This repository serves as:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parth-2110/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
