@@ -5,13 +5,15 @@ class Solution {
 
       int opened = 0;
     
-      for(char c: s.toCharArray()){
+     for(int i = 0; i < s.length(); i++)
+     {
 
-            if(c == '(') opened++;
-            if(c == ')') opened--;
+            if(s.charAt(i) == '(') opened++;
+            if(s.charAt(i) == ')') opened--;
 
-           Max  = Math.max(opened,Max);
-      }
+            Max = Math.max(opened,Max);
+
+     }
 
 return Max;
     }
