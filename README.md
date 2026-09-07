@@ -83,6 +83,7 @@ This repository serves as:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Parth-2110/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth-2110/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Parth-2110/LeetCode/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/0229-majority-element-ii) |
@@ -128,6 +129,7 @@ This repository serves as:
 | [0005-longest-palindromic-substring](https://github.com/Parth-2110/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parth-2110/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Parth-2110/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
