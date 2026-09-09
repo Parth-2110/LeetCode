@@ -30,13 +30,7 @@ class Solution {
                     }
 
                     else{
-                        List<Integer> temp = new ArrayList<>();
-                        temp.add(nums[i]);
-                        temp.add(nums[j]);
-                        temp.add(nums[k]);
-                        temp.add(nums[l]);
-
-                        result.add(temp);
+                        result.add(Arrays.asList(nums[i],nums[j],nums[k],nums[l]));
 
                         k++;
                         l--;
