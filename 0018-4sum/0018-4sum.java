@@ -4,53 +4,53 @@ class Solution {
         List<List<Integer>> result = new ArrayList<>();
 
         Arrays.sort(nums);
-        for (int i = 0; i < nums.length; i++) {
 
-             if(i > 0 && nums[i] == nums[i - 1]) continue;
+        for(int i = 0; i < nums.length; i++){
 
-            for (int j = i + 1; j < nums.length; j++) {
+            if( i > 0 && nums[i] == nums[i - 1]) continue;
 
-                if (j > i + 1 && nums[j] == nums[j - 1])
-                    continue;
+            for(int j = i + 1; j < nums.length; j++){
+
+                if(j > i + 1 && nums[j] == nums[j - 1]) continue;
 
                 int k = j + 1;
                 int l = nums.length - 1;
 
-                while (k < l) {
 
-                  long sum =(long)nums[i] + nums[j] + nums[k] + nums[l];
+                while(k < l){
 
-                    if (sum < target) {
-                        k++;
-                    }
+                    long sum = (long)nums[i] + nums[j] + nums[k] + nums[l];
 
-                    else if (sum > target) {
+                    if( sum > target){
                         l--;
                     }
 
-                    else {
+                    else if( sum < target){
+                        k++;
+                    }
 
+                    else{
                         List<Integer> temp = new ArrayList<>();
                         temp.add(nums[i]);
                         temp.add(nums[j]);
                         temp.add(nums[k]);
                         temp.add(nums[l]);
 
-                            result.add(temp);
+                        result.add(temp);
 
                         k++;
                         l--;
 
-                        
+                        while(k < l && nums[k] == nums[k - 1]) k++;
+                        while(k < l && nums[l] == nums[l + 1]) l--;
 
-                        while (l > k && nums[k] == nums[k - 1])
-                            k++;
-                        while (l > k && nums[l] == nums[l + 1])
-                            l--;
+                        
                     }
+
+
+
                 }
             }
-
         }
         return result;
     }
