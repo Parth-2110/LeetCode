@@ -244,4 +244,8 @@ This repository serves as:
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Parth-2110/LeetCode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
