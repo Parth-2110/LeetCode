@@ -162,6 +162,7 @@ This repository serves as:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parth-2110/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Parth-2110/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Parth-2110/LeetCode/tree/master/0048-rotate-image) |
 | [1903-largest-odd-number-in-string](https://github.com/Parth-2110/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -253,6 +254,7 @@ This repository serves as:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parth-2110/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -260,5 +262,6 @@ This repository serves as:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Parth-2110/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
