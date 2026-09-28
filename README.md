@@ -105,6 +105,7 @@ This repository serves as:
 | [0005-longest-palindromic-substring](https://github.com/Parth-2110/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Parth-2110/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Parth-2110/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Parth-2110/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Parth-2110/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Parth-2110/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -255,6 +256,7 @@ This repository serves as:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parth-2110/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Parth-2110/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0328-odd-even-linked-list) |
