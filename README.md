@@ -109,6 +109,7 @@ This repository serves as:
 | [0075-sort-colors](https://github.com/Parth-2110/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Parth-2110/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parth-2110/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -219,6 +220,7 @@ This repository serves as:
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Parth-2110/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Parth-2110/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parth-2110/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -258,6 +260,7 @@ This repository serves as:
 | [0002-add-two-numbers](https://github.com/Parth-2110/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Parth-2110/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -267,4 +270,5 @@ This repository serves as:
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parth-2110/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
