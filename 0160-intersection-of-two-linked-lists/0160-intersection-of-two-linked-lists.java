@@ -14,23 +14,28 @@ public class Solution {
 
         ListNode tempA = headA, tempB = headB;
 
-        while(tempA != null){
+        while (tempA != tempB) {
 
-                if(tempB == null){
-                    tempB = headB;
-                    tempA = tempA.next;
-                }
-            if(tempA == tempB){
-
-                return tempA;
+            if(tempA == null){
+                tempA = headB;
+            }
+            else{
+                tempA = tempA.next;
             }
 
-            tempB = tempB.next;
+            if(tempB == null){
+                tempB = headA;
+            }
+            else{
+                tempB = tempB.next;
+            }
 
-        
+
+           
+
         }
 
         return tempA;
-        
+
     }
 }
