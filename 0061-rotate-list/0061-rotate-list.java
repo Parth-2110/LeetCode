@@ -11,39 +11,43 @@
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
 
-        
-         if (head == null || head.next == null || k == 0) {
+        if (head == null || k == 0)
             return head;
-        }
 
-        // Step 1: find length and tail
-        int n = 1;
         ListNode tail = head;
+        int len = 1;
+
         while (tail.next != null) {
             tail = tail.next;
-            n++;
+            len++;
         }
 
-        // Step 2: reduce k
-        k = k % n;
-        if (k == 0) {
+        if (k % len == 0)
             return head;
-        }
 
-        // Step 3: make circular
+        k = k % len;
+
         tail.next = head;
 
-        // Step 4: find new tail
-        int steps = n - k;
-        ListNode newTail = head;
-        for (int i = 1; i < steps; i++) {
-            newTail = newTail.next;
+        ListNode newLastNode = findNthNode(head, len - k);
+
+        head = newLastNode.next;
+        newLastNode.next = null;
+
+        return head;
+
+    }
+
+    public ListNode findNthNode(ListNode temp, int k) {
+
+        int cnt = 1;
+        while (temp != null) {
+            if (cnt == k)
+                return temp;
+            cnt++;
+            temp = temp.next;
         }
 
-        // Step 5: break
-        ListNode newHead = newTail.next;
-        newTail.next = null;
-
-        return newHead;
+        return temp;
     }
 }
