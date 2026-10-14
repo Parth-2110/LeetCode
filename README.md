@@ -111,6 +111,7 @@ This repository serves as:
 | [0088-merge-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Parth-2110/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parth-2110/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Parth-2110/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Parth-2110/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parth-2110/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -126,6 +127,7 @@ This repository serves as:
 | [0056-merge-intervals](https://github.com/Parth-2110/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Parth-2110/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Parth-2110/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Parth-2110/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Parth-2110/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Parth-2110/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ This repository serves as:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Parth-2110/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Parth-2110/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Parth-2110/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parth-2110/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -271,6 +274,7 @@ This repository serves as:
 | [0061-rotate-list](https://github.com/Parth-2110/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Parth-2110/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parth-2110/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Parth-2110/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Parth-2110/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Parth-2110/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -289,4 +293,8 @@ This repository serves as:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Parth-2110/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Parth-2110/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Parth-2110/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
